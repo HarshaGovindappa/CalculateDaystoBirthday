@@ -7,7 +7,7 @@
 
 3.Make sure python, pytest, pytest-html, jsonschema, requests are installed.
 
-4.unzip the code and run "pytest --html=report.html -sv"
+4.unzip the code, navigate to "CalculateDaystoBirthday" dir and run "pytest --html=report.html -sv"
 
 5.Check the test reults in report.html
 
