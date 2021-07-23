@@ -3,9 +3,7 @@
 
 1.Download the code with Downlad.zip
 
-2.Prerequisites for running the pytest
-
-3.Make sure python, pytest, pytest-html, jsonschema, requests are installed.
+2.Prerequisites for running the pytest: Make sure python, pytest, pytest-html, jsonschema, requests are installed.
 
 4.unzip the code, navigate to "CalculateDaystoBirthday" dir and run "pytest --html=report.html -sv"
 
